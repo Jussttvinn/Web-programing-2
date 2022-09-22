@@ -1,0 +1,12 @@
+.body{
+ background-color: black;
+ background-image: url("/Asset/image/backgound2.jpg.webp");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ padding: 25px;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
